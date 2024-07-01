@@ -7,9 +7,11 @@ Welcome to the **Rust Awesome** repository! This is a curated list of Rust conte
 4. [Resources](#Resources)
    - Docs:
      - [Official Documentation](#official-documentation)
-    - [Tutorials]()
+     - [Rust Design Pattern - Unnofical](https://rust-unofficial.github.io/patterns/intro.html)
+     - [Tutorials and coLabs](##tuts-and-colab)
+       - [Comprehensive Rust Rust Colab](https://google.github.io/comprehensive-rust/cargo.html)
     - [Books](rust-books)
-      - [Rust Books Official](https://doc.rust-lang.org/book/)
+      - [The Book (The Rust Programming Language)](https://doc.rust-lang.org/book/)
       - [Rust by Examples](https://doc.rust-lang.org/rust-by-example/)
       - [Programming Rust, 2nd Edition by Jim Blandy, Jason Orendorff, and Leonora F.S. 2021](http://bzz.wallizard.com:8081/share/books/RUST/Programming%20Rust%202nd%20Edition.pdf) 
     - [Youtube Channels and Vieos](video-and-tuts)
